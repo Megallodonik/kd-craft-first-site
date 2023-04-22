@@ -233,3 +233,161 @@ main{
     color: #FFFFFF;
 
 }
+.kdcraft_info_txt{
+    position: absolute;
+    width: 371px;
+    height: 500px;
+    left: 40px;
+    top: 140px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+
+}
+.diamond_sw{
+    position: absolute;
+    width: 79px;
+    height: 79px;
+    left: 575px;
+    
+    top: 640px;
+
+    z-index: 99;
+}
+.diamond_sw2{
+    position: absolute;
+    width: 79px;
+    height: 79px;
+    left: 860px;
+    top: 150px;
+
+    z-index: 99;
+}
+.wooden_sw{
+    position: absolute;
+    width: 79px;
+    height: 79px;
+    left: 575px;
+    top: 150px;
+    z-index: 99;
+
+}
+.wooden_sw2{
+    position: absolute;
+    width: 79px;
+    height: 79px;
+    left: 860px;
+    top: 640px;
+
+    z-index: 99;
+}
+.howtojoin_logo{
+    position: absolute;
+    width: 200px;
+    height: 39px;
+    left: 120px;
+    top: 50px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 34px;
+    line-height: 41px;
+    
+    color: #FFFFFF;
+    z-index: 99;
+}
+.howtojoin_txt{
+    position: absolute;
+    width: 371px;
+    height: 500px;
+    left: 40px;
+    top: 140px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+    z-index: 99;
+}
+
+.diam{
+    position: absolute;
+    width: 83.84px;
+    height: 79px;
+    left: 1022px;
+    top: 150px;
+
+    z-index: 99;
+}
+
+.diam2{
+    position: absolute;
+    width: 83.84px;
+    height: 79px;
+    left: 1314px;
+    top: 640px;
+
+    z-index: 99;
+}
+
+.gold{
+    position: absolute;
+    width: 79px;
+    height: 79px;
+    left: 1322px;
+    top: 150px;
+
+    z-index: 99;
+}
+
+.gold1{
+    position: absolute;
+    width: 79px;
+    height: 79px;
+    left: 1024px;
+    top: 640px;
+
+    z-index: 99;
+}
+.logo{
+    position: absolute;
+    width: 200px;
+    height: 39px;
+    left: 120px;
+    top: 50px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 34px;
+    line-height: 41px;
+    
+    color: #FFFFFF;
+    z-index: 99;
+}
+
+.txt{
+    position: absolute;
+    width: 371px;
+    height: 500px;
+    left: 40px;
+    top: 140px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+    z-index: 99;
+}
